@@ -48,7 +48,7 @@ To get started with the deep learning we need to have knowledege about several t
 <a id="library"></a><h2>Libraries Used</h2>
 + **Numpy** : Used for numerical computations in python
 + **Pandas** : Used for file reading and other operations when working with large data.
-+ **Sklearn** : This is a machine learning library for python.
++ **Sklearn(Scikit-learn)** : This is a machine learning library for python.
 + **Matplotlib** : Visualization library
 + **Seaborn** : Interactive visualizations are made using these library.
 + **Tensorflow** : The deep learning framework made by Google for the lower level computations.
