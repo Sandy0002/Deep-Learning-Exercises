@@ -42,7 +42,7 @@ To get started with the deep learning we need to have knowledege about several t
 **Gradient Descent** | An optimization algorithm used in backpropagation to find the optimal weights that minimize the loss function.
 **Vanishing Gradient Problem** | A challenge in training deep neural networks where gradients become very small, making it difficult to update early layers effectively.
 
-**Note:** The general machine learning terms are not discussed here they can be found here.
+**Note:** The general machine learning terms are not discussed here they can be found [here](https://github.com/Sandy0002/Machine-Learning-Exercises/blob/main/README.md#terms).
 
 
 <a id="library"></a><h2>Libraries Used</h2>
