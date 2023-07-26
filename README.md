@@ -5,7 +5,8 @@ Repository consists of programs that use various concepts and models that does c
 ## Contents
 + [About](#intro) 
 + [Applications](#applications) 
-+ [Terms](#terms) 
++ [Terms](#terms)
++ [Libraries Used](#library)
 + [Programs Description](#program)
 
 
@@ -42,6 +43,16 @@ To get started with the deep learning we need to have knowledege about several t
 **Vanishing Gradient Problem** | A challenge in training deep neural networks where gradients become very small, making it difficult to update early layers effectively.
 
 **Note:** The general machine learning terms are not discussed here they can be found here.
+
+## Libraries Used
++ **Numpy** : Used for numerical computations in python
++ **Pandas** : Used for file reading and other operations when working with large data.
++ **Sklearn** : This is a machine learning library for python.
++ **Matplotlib** : Visualization library
++ **Seaborn** : Interactive visualizations are made using these library.
++ **Tensorflow** : The deep learning framework made by Google for the lower level computations.
++ **Keras** : Model level library for carrying out modelling tasks.
+
 
 <a id="program"></a><h2>Programs Description</h2>
 
