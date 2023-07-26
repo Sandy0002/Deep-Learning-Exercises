@@ -8,6 +8,7 @@ Repository consists of programs that use various concepts and models that does c
 + [Terms](#terms)
 + [Libraries Used](#library)
 + [Programs Description](#program)
++ [LICENSE](LICENSE)
 
 
 <a id="intro"></a><h2>About</h2>
@@ -80,3 +81,7 @@ For some programs which have heavy datasets their links are in respective progra
 
   + **Microsoft Stock Prices**: This program demonstrtes time series forecasting using a RNN model LSTM. LSTM stands for Long Short Term memory model specifically used for time series analysis. In this program stock prices of microsoft are forecasted. Program [link](https://github.com/Sandy0002/Deep-Learning-Exercises/blob/main/RNN/ms_stocks_price.py)
   + **Delhi Temperature Forecast** : In this program delhi temperature is being forecasted using LSTM model. Program [link](https://github.com/Sandy0002/Deep-Learning-Exercises/blob/main/RNN/temperature_forecast_lstm.py)
+
+
+## LICENSE
+[MIT LICENSE](LICENSE)
