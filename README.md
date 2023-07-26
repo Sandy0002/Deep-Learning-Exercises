@@ -1,6 +1,6 @@
 # Deep Learning Portfolio
 
-Repository consists of programs that use various concepts and models that does classification, regression and image classification like tasks.
+Repository consists of programs that use various concepts and models that does classification, regression and image classification like tasks.The repository consists of folders such as ANN, CNN and RNN which defines the type of neural network used to carry out various tasks.
 
 ## Contents
 + [About](#intro) 
