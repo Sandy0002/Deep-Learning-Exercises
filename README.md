@@ -6,6 +6,7 @@ Repository consists of programs that use various concepts and models that does c
 + [About](#intro) 
 + [Applications](#applications) 
 + [Terms](#terms)
++ [Steps Involved](#steps)
 + [Libraries Used](#library)
 + [Programs Description](#program)
 + [LICENSE](LICENSE)
@@ -44,6 +45,9 @@ To get started with the deep learning we need to have knowledege about several t
 **Vanishing Gradient Problem** | A challenge in training deep neural networks where gradients become very small, making it difficult to update early layers effectively.
 
 **Note:** The general machine learning terms are not discussed here they can be found [here](https://github.com/Sandy0002/Machine-Learning-Exercises/blob/main/README.md#terms).
+
+<a id="steps"></a><h2>Steps Involved</h2>
+Since deep learning is subset of machine learning the steps involved are same. You can look for them [here](https://github.com/Sandy0002/Machine-Learning-Exercises/blob/main/README.md#steps)
 
 
 <a id="library"></a><h2>Libraries Used</h2>
